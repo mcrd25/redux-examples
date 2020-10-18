@@ -1,0 +1,25 @@
+{
+  "name": "redux-examples",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcrd25/redux-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcrd25/redux-examples/issues"
+  },
+  "homepage": "https://github.com/mcrd25/redux-examples#readme",
+  "dependencies": {
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^7.11.0"
+  }
+}
